@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('/fonts/DINNextLTArabic-Regular') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  } 
+
+
+  *{
+    font-family: 'DIN Next LT Arabic';
+  }
